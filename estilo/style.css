@@ -1,0 +1,224 @@
+body{
+    background-color: white;
+}
+
+#contact{
+    background-color: rgb(241, 236, 218);
+}
+header{
+    width: 100%;
+    height: 120px;
+    font-size: 150%;
+    font-family: 'consolas';
+    position: relative;
+    text-align: center;
+}
+
+.somos{
+    font-size: 100%;
+    font-family: Arial;
+    position: relative;
+    text-align: center;
+}
+.ines{
+    font-family: Arial;
+}
+.ini{
+    font-family: Arial;
+    position: relative;
+    text-align: center;
+    font-size: 140%;
+}
+.inesito{
+    text-align: center;
+    font-family: Arial;
+}
+#pepe{
+    font-size: 150%;
+    font-family: Verdana;
+    width: 90%;
+}
+a{
+   
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+nav{
+    display: flex;
+    border: 1px black solid;
+    justify-content: center;
+    font-size: 150%;
+    color: black;
+}
+.text{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+
+}
+.info1 h2{
+    margin-bottom: 15px;
+    font-size: 35px;
+    font-family: Arial;
+}
+.info1 p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.info1 a{
+    margin-bottom: 15px;
+    display: flex;
+    font-size: 20px;
+}
+#formis {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    font-size: 50px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    
+}
+#Enviar{
+    font-size: 25px;
+
+}
+#Nombre{
+    font-size: 25px;
+}
+#Asunto{
+    font-size: 25px;
+}
+#Comentario{
+    font-size: 25px;
+}
+#Correo{
+    font-size: 25px;
+}
+#Edad{
+    font-size: 25px;
+}
+.ines{
+    position: relative;
+    font-size: 140%;
+}
+#titulo{
+    font-family: Impact;
+    font-size: 50px;
+}
+footer{
+    font-family: Arial;
+    text-align: center;
+    font-size: 15px;
+    display: flex;
+    margin-left: 30%;
+}
+footer img{
+    height: 10%;
+    width: 10%;
+    right: 50%;
+}
+.imagen{
+    position: absolute;
+    top: 0%;
+}
+.imagenfooter{
+    margin-left: 43%;
+}
+.img1{
+    position: relative;
+    height: 20%;
+    width:  20%;
+    left: 5%;
+    
+
+}
+input[type="submit"]{
+    padding: -1%;
+    background-color: rgb(18, 80, 161);
+    color: white;
+    border-radius: 3% solid  black;
+    
+}   
+input[type="submit"]:hover{
+    background-color: darkblue;
+}
+
+
+
+#logo2{
+    position: relative;
+    height: 20%;
+    width: 20%;
+    left: 40%;
+
+}
+main    div{
+    display: flex;
+    position: relative;
+    
+} 
+
+
+
+
+
+p{
+    width: 650px;
+    font-size: 100%;
+    font-family: Verdana;
+
+}
+h1{
+    font-family: verdana;
+    font-size: 250%;
+}
+.prueba1{
+    display: inline-flex;
+
+}
+.gat{
+    height: 50%;
+    width: 35%;
+}
+.gat2{
+    height: 50%;
+    width: 40%;
+}
+.prueba2{
+    display: inline-flex;
+}
+.per1{
+    height: 55%;
+    width: 55%;
+}
+
+.perro{
+
+    height: 300px;
+    width: 200px;
+}
+.pedro{
+    position: relative;
+    
+}
+
+.ulti{
+    border: 1px solid black;
+}
+.lo2{
+    position: absolute;
+    height: 120px;
+    width: 110px;
+    left: 90%;
+    top: 201%;
+}
+.ma{
+    font-size: 150%;
+    font-family: Verdana;
+    width: 90%;
+}
